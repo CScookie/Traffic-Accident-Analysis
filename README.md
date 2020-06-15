@@ -5,7 +5,6 @@ Data analysis performed on past traffic accidents to get inferences and use the 
 #### Traffic Accidents by hour for each day in year 2019
 
 <p align = "left">
-    
     <img src="README_src/Time_vs_Day.png" alt="Time_vs_Day">
 </p>
 The heatmap above shows there is a concentration of accidents during peak hours at 8am and between 3pm to 6pm. The reason for such concentration may be due to the fact those timings are when workers drive to work or back home. Emergency Response Team can consider increasing their manpower for shifts that falls within those timings and decreasing manpower for shifts that does not fall within those timing.
