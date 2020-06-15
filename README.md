@@ -1,4 +1,4 @@
-# Traffic-accident-analysis
+# Traffic-Accident-Analysis
 Data analysis performed on past traffic accidents to get inferences and use the insights to help Emergency Response Team prioritize their manpower on days with high probability of traffic accidents. Prioritizing of manpower is important these days or in the following years as many organizations lack manpower due to the declining birthrate. 
 
 
