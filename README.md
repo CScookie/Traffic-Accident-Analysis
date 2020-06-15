@@ -6,5 +6,5 @@ Data analysis performed on past traffic accidents to help Emergency Response Tea
 </p>
 
 <p align = "center">
-    <img src="README_src/Month_vs_day.png" alt="Month_vs_day">
+    <img src="README_src/Month_vs_Day.png" alt="Month_vs_Day">
 </p>
