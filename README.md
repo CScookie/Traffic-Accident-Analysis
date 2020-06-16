@@ -16,4 +16,4 @@ The heatmap above shows there is a concentration of accidents during peak hours 
     <img src="README_src/Month_vs_Day.png" alt="Month_vs_Day">
 </p>
 
-The heatmap above shows us that there is a concentration of accidents during the start of the year. The reason for such concentration may be due to the fact that there are more possibility of drink driving during the New Year. Emergency Response Team can consider encouraging employees to take leave at the second half of the year rather than the start. 
+The heatmap above shows us that there is a concentration of accidents during the start of the year. The reason for such concentration may be due to the fact that there are more possibility of drink driving during the New Year. Emergency Response Team can consider encouraging employees to take leave at the second half of the year rather than the start.
